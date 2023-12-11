@@ -1,0 +1,73 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 900;
+  padding: 24px;
+  margin: 0 auto;
+  width: 960px;
+  background-color: royalblue; 
+}
+
+hr {
+  border-style: groove;
+  margin: 32px 0;
+}
+
+section {
+  margin: 24px 0;
+}
+
+section,
+pre {
+  padding: 20px;
+  border: 1px solid rgb(220, 220, 220);
+  border-radius: 5px;
+  background-color: white;
+}
+
+section h2 {
+  margin: 8px 0 32px;
+  text-align: center;
+}
+
+pre,
+code {
+  font-family: 'Raleway', monospace;
+  font-weight: 500;
+  color: rgb(20, 20, 20);
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 500;
+}
+
+pre {
+  font-family: monospace;
+}
+
+i,
+em {
+  font-style: arial;
+}
+
+.database-query,
+.database-result {
+  padding: 4px;
+}
+
+.database-query {
+  box-shadow: 2px 2px 3px rgb(73, 125, 73);
+}
+
+.database-result {
+  box-shadow: 2px 2px 3px rgb(220, 120, 120);
+}
