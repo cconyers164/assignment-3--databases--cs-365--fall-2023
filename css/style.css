@@ -47,7 +47,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: 500;
+  font-weight: 900;
 }
 
 pre {
@@ -65,9 +65,9 @@ em {
 }
 
 .database-query {
-  box-shadow: 2px 2px 3px rgb(73, 125, 73);
+  box-shadow: 2px 2px 3px rgb(206, 65, 0);
 }
 
 .database-result {
-  box-shadow: 2px 2px 3px rgb(220, 120, 120);
+  box-shadow: 2px 2px 3px rgb(33, 217, 33);
 }
